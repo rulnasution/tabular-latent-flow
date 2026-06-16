@@ -1,0 +1,60 @@
+{
+    "name": "susenas",
+    "task_type": "regression",
+    "header": "infer",
+    "column_names": [
+        "R301",
+        "FWT",
+        "R1806",
+        "R1807",
+        "R1808",
+        "EXP_CAP",
+        "R1804",
+        "R1810A",
+        "R1810B",
+        "R1817",
+        "R1809A",
+        "R1809B",
+        "R804",
+        "R1102",
+        "R1103",
+        "R407_partisipasi",
+        "R612",
+        "R615_partisipasi",
+        "R407_pendidikan",
+        "R615_pendidikan",
+        "R407_akta",
+        "R606"
+    ],
+    "num_col_idx": [
+        1,
+        6,
+        15,
+        18,
+        20
+    ],
+    "cat_col_idx": [
+        0,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        21
+    ],
+    "target_col_idx": [
+        5
+    ],
+    "file_type": "csv",
+    "data_path": "data/susenas/susenas.csv",
+    "test_path": null
+}
